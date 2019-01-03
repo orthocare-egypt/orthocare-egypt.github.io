@@ -1,0 +1,52 @@
+HTTrack3.49-2 launched on Thu, 03 Jan 2019 21:14:13 at https://orthocare-egypt.com
+(httrack https://orthocare-egypt.com -O original )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:15:35	Error: 	"Bad Request" (400) at link https://orthocare-egypt.com/wp-admin/admin-ajax.php (from https://orthocare-egypt.com/)
+21:16:27	Error: 	"Not Found" (404) at link https://orthocare-egypt.com/wp-content/plugins/ultimate-product-catalogue/css/catalogue-style-.css (from https://orthocare-egypt.com/)
+21:17:15	Error: 	"Not Found" (404) at link https://orthocare-egypt.com/wp-content/plugins/ultimate-product-catalogue/js/catalogue-style-.js (from https://orthocare-egypt.com/)
+21:17:15	Error: 	"Not Found" (404) at link https://orthocare-egypt.com/en/ (from https://orthocare-egypt.com/)
+21:22:06	Error: 	"Not Found" (404) at link orthocare-egypt.com/منتجاتنا/ (from https://orthocare-egypt.com/)
+21:22:06	Error: 	"Not Found" (404) at link orthocare-egypt.com/اتصل-بنا/ (from https://orthocare-egypt.com/)
+21:22:06	Warning: 	File not parsed, looks like binary: https://orthocare-egypt.com/wp-content/plugins/revslider/public/assets/css/openhand.cur
+21:22:06	Warning: 	File not parsed, looks like binary: https://orthocare-egypt.com/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+21:22:06	Error: 	"Not Found" (404) at link https://orthocare-egypt.com/wp-content/plugins/ultimate-product-catalogue/css/images/animated-overlay.gif (from https://orthocare-egypt.com/wp-content/plugins/ultimate-product-catalogue/css/upcp-jquery-ui.css)
+21:22:06	Error: 	"Not Found" (404) at link https://orthocare-egypt.com/wp-content/plugins/ultimate-product-catalogue/css/images/ui-bg_highlight-soft_100_eeeeee_1x100.png (from https://orthocare-egypt.com/wp-content/plugins/ultimate-product-catalogue/css/upcp-jquery-ui.css)
+21:22:06	Error: 	"Not Found" (404) at link https://orthocare-egypt.com/wp-content/plugins/ultimate-product-catalogue/css/images/ui-bg_gloss-wave_35_f6a828_500x100.png (from https://orthocare-egypt.com/wp-content/plugins/ultimate-product-catalogue/css/upcp-jquery-ui.css)
+21:22:06	Error: 	"Not Found" (404) at link https://orthocare-egypt.com/wp-content/plugins/ultimate-product-catalogue/css/images/ui-bg_glass_100_f6f6f6_1x400.png (from https://orthocare-egypt.com/wp-content/plugins/ultimate-product-catalogue/css/upcp-jquery-ui.css)
+21:22:06	Error: 	"Not Found" (404) at link https://orthocare-egypt.com/wp-content/plugins/ultimate-product-catalogue/css/images/ui-bg_glass_100_fdf5ce_1x400.png (from https://orthocare-egypt.com/wp-content/plugins/ultimate-product-catalogue/css/upcp-jquery-ui.css)
+21:22:06	Error: 	"Not Found" (404) at link https://orthocare-egypt.com/wp-content/plugins/ultimate-product-catalogue/css/images/ui-bg_glass_65_ffffff_1x400.png (from https://orthocare-egypt.com/wp-content/plugins/ultimate-product-catalogue/css/upcp-jquery-ui.css)
+21:22:06	Error: 	"Not Found" (404) at link https://orthocare-egypt.com/wp-content/plugins/ultimate-product-catalogue/css/images/ui-bg_highlight-soft_75_ffe45c_1x100.png (from https://orthocare-egypt.com/wp-content/plugins/ultimate-product-catalogue/css/upcp-jquery-ui.css)
+21:22:06	Error: 	"Not Found" (404) at link https://orthocare-egypt.com/wp-content/plugins/ultimate-product-catalogue/css/images/ui-bg_diagonals-thick_18_b81900_40x40.png (from https://orthocare-egypt.com/wp-content/plugins/ultimate-product-catalogue/css/upcp-jquery-ui.css)
+21:22:06	Error: 	"Not Found" (404) at link https://orthocare-egypt.com/wp-content/plugins/ultimate-product-catalogue/css/images/ui-icons_222222_256x240.png (from https://orthocare-egypt.com/wp-content/plugins/ultimate-product-catalogue/css/upcp-jquery-ui.css)
+21:22:06	Error: 	"Not Found" (404) at link https://orthocare-egypt.com/wp-content/plugins/ultimate-product-catalogue/css/images/ui-icons_ffffff_256x240.png (from https://orthocare-egypt.com/wp-content/plugins/ultimate-product-catalogue/css/upcp-jquery-ui.css)
+21:22:06	Error: 	"Not Found" (404) at link https://orthocare-egypt.com/wp-content/plugins/ultimate-product-catalogue/css/images/ui-icons_ef8c08_256x240.png (from https://orthocare-egypt.com/wp-content/plugins/ultimate-product-catalogue/css/upcp-jquery-ui.css)
+21:22:06	Error: 	"Not Found" (404) at link https://orthocare-egypt.com/wp-content/plugins/ultimate-product-catalogue/css/images/ui-icons_228ef1_256x240.png (from https://orthocare-egypt.com/wp-content/plugins/ultimate-product-catalogue/css/upcp-jquery-ui.css)
+21:22:06	Error: 	"Not Found" (404) at link https://orthocare-egypt.com/wp-content/plugins/ultimate-product-catalogue/css/images/ui-icons_ffd27a_256x240.png (from https://orthocare-egypt.com/wp-content/plugins/ultimate-product-catalogue/css/upcp-jquery-ui.css)
+21:22:06	Error: 	"Not Found" (404) at link https://orthocare-egypt.com/wp-content/plugins/ultimate-product-catalogue/css/images/ui-bg_diagonals-thick_20_666666_40x40.png (from https://orthocare-egypt.com/wp-content/plugins/ultimate-product-catalogue/css/upcp-jquery-ui.css)
+21:22:06	Error: 	"Not Found" (404) at link https://orthocare-egypt.com/wp-content/plugins/ultimate-product-catalogue/css/images/ui-bg_flat_10_000000_40x100.png (from https://orthocare-egypt.com/wp-content/plugins/ultimate-product-catalogue/css/upcp-jquery-ui.css)
+21:22:06	Warning: 	Moved Permanently for https://orthocare-egypt.com/?p=108
+21:22:06	Warning: 	File has moved from https://orthocare-egypt.com/?p=108 to https://orthocare-egypt.com/%d9%85%d9%86-%d9%86%d8%ad%d9%86/
+21:22:06	Warning: 	Moved Permanently for https://orthocare-egypt.com/?p=109
+21:22:06	Warning: 	File has moved from https://orthocare-egypt.com/?p=109 to https://orthocare-egypt.com/%d8%ae%d8%af%d9%85%d8%a7%d8%aa%d9%86%d8%a7/
+21:22:06	Warning: 	Moved Permanently for https://orthocare-egypt.com/?p=131
+21:22:06	Warning: 	File has moved from https://orthocare-egypt.com/?p=131 to https://orthocare-egypt.com/work/
+21:22:06	Warning: 	Moved Permanently for https://orthocare-egypt.com/?p=332
+21:22:06	Warning: 	File has moved from https://orthocare-egypt.com/?p=332 to https://orthocare-egypt.com/%d8%aa%d8%a3%d9%87%d9%8a%d9%84-%d8%ad%d8%a7%d9%84%d8%a7%d8%aa-%d8%a8%d8%aa%d8%b1-%d9%81%d9%88%d9%82-%d8%a7%d9%84%d8%b1%d9%83%d8%a8%d8%a9/
+21:22:06	Warning: 	Moved Permanently for https://orthocare-egypt.com/?p=335
+21:22:06	Warning: 	File has moved from https://orthocare-egypt.com/?p=335 to https://orthocare-egypt.com/%d8%aa%d8%a3%d9%87%d9%8a%d9%84-%d8%ad%d8%a7%d9%84%d8%a7%d8%aa-%d8%a8%d8%aa%d8%b1-%d8%aa%d8%ad%d8%aa-%d8%a7%d9%84%d8%b1%d9%83%d8%a8%d8%a9/
+21:22:06	Warning: 	Moved Permanently for https://orthocare-egypt.com/?p=338
+21:22:06	Warning: 	File has moved from https://orthocare-egypt.com/?p=338 to https://orthocare-egypt.com/%d8%a7%d9%84%d8%b9%d9%86%d8%a7%d9%8a%d8%a9-%d8%a8%d8%a7%d9%84%d8%a8%d8%aa%d8%b1-%d9%84%d9%81-%d8%a7%d9%84%d8%a8%d8%aa%d8%b1-%d8%a8%d8%a7%d9%84%d8%b1%d8%a8%d8%a7%d8%b7-%d8%a7%d9%84%d8%b6%d8%a7%d8%ba/
+21:22:06	Warning: 	Moved Permanently for https://orthocare-egypt.com/?p=340
+21:22:06	Warning: 	File has moved from https://orthocare-egypt.com/?p=340 to https://orthocare-egypt.com/%d9%81%d9%88%d9%82-%d8%a7%d9%84%d8%b1%d9%83%d8%a8%d8%a9/
+21:22:06	Warning: 	Moved Permanently for https://orthocare-egypt.com/?p=393
+21:22:06	Warning: 	File has moved from https://orthocare-egypt.com/?p=393 to https://orthocare-egypt.com/%d8%aa%d8%ad%d8%aa-%d8%a7%d9%84%d8%b1%d9%83%d8%a8%d8%a9/
+21:22:06	Warning: 	Moved Permanently for https://orthocare-egypt.com/?p=106
+21:22:06	Warning: 	File has moved from https://orthocare-egypt.com/?p=106 to https://orthocare-egypt.com/contact-us/
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 55 seconds : 207 links scanned, 175 files written (8806224 bytes overall) [6922908 bytes received at 14574 bytes/sec], 4689177 bytes transferred using HTTP compression in 117 files, ratio 26%, 6.0 requests per connection
+(21 errors, 20 warnings, 0 messages)
