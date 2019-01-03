@@ -33,31 +33,6 @@ p{
   display: none;
 }
 
-/* Values
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-.values {
-  background-image: url('../images/background.png');
-  background-size: cover;
-  color: #fff;
-  padding-bottom: 5rem;
-}
-.value-multiplier {
-  margin-bottom: .5rem;
-  color: #11DFC7;
-}
-.value-heading {
-  margin-bottom: .3rem;
-}
-.value-description {
-  opacity: .8;
-  font-weight: 300;
-}
-
-/* Help
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-.get-help {
-  border-bottom: 1px solid #ddd;
-}
 
 /* Categories
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -152,4 +127,11 @@ p{
     top: -14rem;
     max-height: 570px;
   }
+}
+
+/* autocomplete */
+.eac-square input {
+	background-image: url("images/icon_search.png");
+	background-repeat: no-repeat;
+	background-position: right 10px center;
 }
